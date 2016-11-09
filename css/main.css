@@ -89,7 +89,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus {
-	color: #ff7b29;
+	color: #FFEA21;
 }
 
 /**
@@ -825,7 +825,7 @@ header .row {
 }
 
 header .logo {
-	margin-top: 2px;
+	margin-top: 20px;
 	z-index: 600;
 	position: absolute;
 	left: 35px;
@@ -867,6 +867,8 @@ header .logo a {
 .sticky h3 {
 	color: white;
   top: 10px;
+  padding-bottom: 30px;
+  font-size: 24px;
 }
 
 /**
@@ -1121,7 +1123,7 @@ a.menu-toggle {
 		border: none;
 	}
 	.main-navigation li a:hover {
-		color: #ff7b29;
+		color: #FFEA21;
 	}
 	.main-navigation li.with-sep a {
 		padding-left: 0;
@@ -1132,7 +1134,7 @@ a.menu-toggle {
 	}
 	.main-navigation li.current > a {
 		background: none;
-		color: #ff7b29;
+		color: #FFEA21;
 	}
 	.main-navigation li.current > a:after {
 		display: none;
@@ -2238,7 +2240,7 @@ footer ul li {
 	color: #FFFFFF;
 }
 .footer-main .footer-subscribe .subscribe-form .subscribe-message i {
-	color: #ff7b29;
+	color: #FFEA21;
 	margin-right: 5px;
 }
 .footer-main .footer-subscribe .subscribe-form ::-webkit-input-placeholder {
